@@ -1,6 +1,6 @@
 <?php 
 session_start();
 
-$_SESSION['test'] = 'hola mundo';
+$_SESSION['prueba'] = 1;
 
 echo 'session iniciada';
